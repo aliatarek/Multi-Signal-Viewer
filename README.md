@@ -1,6 +1,6 @@
 # Multi-Channel Signal Viewer
 
-A multi-channel, multi-port signal viewer that can display and control multiple signals on two seperate graphs.
+A dynamic signal viewer for displaying and maniplating multiple signals at once.
 
 ## Features
 
